@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/chatgptgpt/static/css/main.4e76d445.css",
-    "main.js": "/chatgptgpt/static/js/main.80f15034.js",
-    "static/js/592.0ac94787.chunk.js": "/chatgptgpt/static/js/592.0ac94787.chunk.js",
-    "index.html": "/chatgptgpt/index.html",
-    "main.4e76d445.css.map": "/chatgptgpt/static/css/main.4e76d445.css.map",
-    "main.80f15034.js.map": "/chatgptgpt/static/js/main.80f15034.js.map",
-    "592.0ac94787.chunk.js.map": "/chatgptgpt/static/js/592.0ac94787.chunk.js.map"
+    "main.css": "/AdavancedGPT/static/css/main.4e76d445.css",
+    "main.js": "/AdavancedGPT/static/js/main.c966b4c3.js",
+    "static/js/592.0ac94787.chunk.js": "/AdavancedGPT/static/js/592.0ac94787.chunk.js",
+    "index.html": "/AdavancedGPT/index.html",
+    "main.4e76d445.css.map": "/AdavancedGPT/static/css/main.4e76d445.css.map",
+    "main.c966b4c3.js.map": "/AdavancedGPT/static/js/main.c966b4c3.js.map",
+    "592.0ac94787.chunk.js.map": "/AdavancedGPT/static/js/592.0ac94787.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e76d445.css",
-    "static/js/main.80f15034.js"
+    "static/js/main.c966b4c3.js"
   ]
 }
